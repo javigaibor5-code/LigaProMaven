@@ -17,18 +17,3 @@ Proyecto desarrollado en Java utilizando Maven para representar los partidos de 
 - DQuito
 - Emelec
 
-## Ejemplo de salida
-
-```
-Partidos de LigaPro:
-Emelec jugo contra: [LDU]
-BSC jugo contra: [LDU]
-DQuito jugo contra: [LDU]
-LDU jugo contra: [BSC, DQuito, Emelec]
-
-Recorrido BFS:
-LDU BSC DQuito Emelec
-
-Recorrido DFS:
-LDU BSC DQuito Emelec
-```
